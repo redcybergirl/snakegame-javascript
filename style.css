@@ -4,8 +4,10 @@ body {
     height: 95vh ;
     width: 95vw;
     display: flex;
+    background-color:#ECE0F8;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    color: rgb(13, 65, 13);
+    color: #151515;
+    font-family: Roboto, sans-serif;
 }
